@@ -128,7 +128,7 @@ Source code is available at https://github.com/OpenNTF/SocialSDK
 						<filter>
 							<type>p2-installable-unit</type>
 							<id>org.eclipse.equinox.servletbridge.extensionbundle</id>
-							<removeAll />
+							<removeAll/>
 						</filter>
 					</filters>
 					<environments>
@@ -303,7 +303,7 @@ Source code is available at https://github.com/OpenNTF/SocialSDK
 			<dependency>
 				<groupId>commons-io</groupId>
 				<artifactId>commons-io</artifactId>
-				<version>2.4</version>
+				<version>2.7</version>
 			</dependency>
 			<dependency>
 				<groupId>commons-fileupload</groupId>
