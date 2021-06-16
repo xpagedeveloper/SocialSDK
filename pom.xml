@@ -128,7 +128,7 @@ Source code is available at https://github.com/OpenNTF/SocialSDK
 						<filter>
 							<type>p2-installable-unit</type>
 							<id>org.eclipse.equinox.servletbridge.extensionbundle</id>
-							<removeAll />
+							<removeAll/>
 						</filter>
 					</filters>
 					<environments>
@@ -293,7 +293,7 @@ Source code is available at https://github.com/OpenNTF/SocialSDK
 			<dependency>
 				<groupId>org.apache.httpcomponents</groupId>
 				<artifactId>httpmime</artifactId>
-				<version>4.3.1</version>
+				<version>4.5.13</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.httpcomponents</groupId>
