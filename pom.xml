@@ -128,7 +128,7 @@ Source code is available at https://github.com/OpenNTF/SocialSDK
 						<filter>
 							<type>p2-installable-unit</type>
 							<id>org.eclipse.equinox.servletbridge.extensionbundle</id>
-							<removeAll />
+							<removeAll/>
 						</filter>
 					</filters>
 					<environments>
@@ -323,7 +323,7 @@ Source code is available at https://github.com/OpenNTF/SocialSDK
 			<dependency>
 				<groupId>org.mozilla</groupId>
 				<artifactId>rhino</artifactId>
-				<version>1.7R4</version>
+				<version>1.7.12</version>
 			</dependency>
 			<dependency>
 				<groupId>junit</groupId>
