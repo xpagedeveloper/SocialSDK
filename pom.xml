@@ -128,7 +128,7 @@ Source code is available at https://github.com/OpenNTF/SocialSDK
 						<filter>
 							<type>p2-installable-unit</type>
 							<id>org.eclipse.equinox.servletbridge.extensionbundle</id>
-							<removeAll />
+							<removeAll/>
 						</filter>
 					</filters>
 					<environments>
@@ -308,7 +308,7 @@ Source code is available at https://github.com/OpenNTF/SocialSDK
 			<dependency>
 				<groupId>commons-fileupload</groupId>
 				<artifactId>commons-fileupload</artifactId>
-				<version>1.3.1</version>
+				<version>1.5</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.wink</groupId>
